@@ -2,6 +2,15 @@
 
 Cette application Android permet de gérer une liste d'étudiants en utilisant une base de données locale SQLite. Elle offre une interface intuitive basée sur Material Design pour effectuer les opérations de base (CRUD).
 
+## 🎬 Demo
+
+🚀 Découvrez le projet en action — cliquez sur l'image pour voir la démo vidéo !
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2_UFzYi-uLo">
+    <img src="https://img.youtube.com/vi/2_UFzYi-uLo/0.jpg" width="500">
+  </a>
+</p>
+
 ## Fonctionnalités
 
 - **Ajout d'étudiants** : Saisissez le nom et le prénom pour enregistrer un nouvel étudiant.
